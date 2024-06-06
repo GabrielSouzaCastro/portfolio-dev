@@ -1,0 +1,11 @@
+.contatos {
+   display: flex;
+   flex-direction: column;
+   margin-left: -41px;
+}
+
+@media screen and (max-width:576px) {
+   .contatos{
+      margin-left: -119px;
+   }
+}

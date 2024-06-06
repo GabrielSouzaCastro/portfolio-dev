@@ -1,0 +1,14 @@
+.contato__lista {
+   display: flex;
+}
+
+
+@media screen and(max-width:576px) {
+   .contato__lista{
+     background-color: aqua;
+   }
+   
+}
+
+
+

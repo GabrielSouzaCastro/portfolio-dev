@@ -1,0 +1,13 @@
+.home{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-left: 97px;
+}
+
+@media screen and (max-width:576px) {
+   .home{
+      margin-bottom: 60px;
+   }
+}
+

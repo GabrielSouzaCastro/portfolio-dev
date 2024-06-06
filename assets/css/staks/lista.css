@@ -1,0 +1,21 @@
+.staks__lista {
+   display: flex;
+   text-align: center;
+   margin-left: 57px;   
+}
+
+@media screen and (max-width:576px) {
+   .staks__lista{
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: auto;
+      
+   }
+   
+} 
+
+@media screen and (max-width:768px) {
+   .staks__lista{
+            margin: auto;
+   }
+}

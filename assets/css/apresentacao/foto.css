@@ -1,0 +1,10 @@
+.apresentacao__foto{
+   width: 40%;
+   height: 450px;
+}
+
+@media screen and (max-width:576px) {
+   .apresentacao__foto{
+      display: none;
+   }
+}

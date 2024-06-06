@@ -1,0 +1,13 @@
+.home__curriculo {
+   display: flex;
+   background-color: #986dff;
+   color: #fff;
+   text-decoration: none;
+   width: 200px;
+   height: 50px;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   /* font-weight: 400; */
+   font-size: 1.17rem;
+}

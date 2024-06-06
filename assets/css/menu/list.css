@@ -1,0 +1,7 @@
+.menu__lista {
+   display: flex;
+   justify-content: space-around;   
+   font-weight: bold;
+   margin-right: 5rem;   
+}
+

@@ -1,0 +1,11 @@
+.construcao{
+   opacity:0.5 ;
+   /* border: none; */
+   border: 1px solid #195ccf7a ;
+}
+
+@media screen and (max-width:768px) {
+   .construcao{
+      height: 189px;      
+   }
+}

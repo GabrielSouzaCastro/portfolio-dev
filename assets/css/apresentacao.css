@@ -1,0 +1,17 @@
+
+.apresentacao{
+   max-width: 1094px;
+   display: flex;
+   background-color: #151515;
+   color:#fff;
+   padding: 1.5rem;
+   margin: auto;
+}
+
+@media screen and (max-width:576px) {
+   .apresentacao{
+      margin: auto;
+   }
+}
+
+

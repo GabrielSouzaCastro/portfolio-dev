@@ -1,0 +1,10 @@
+.apresentacao__sobre {
+   width: 60%;
+   padding-left: 2em;
+}
+
+@media screen and (max-width:576px) {
+   .apresentacao__sobre{
+      margin: auto;
+   }
+}

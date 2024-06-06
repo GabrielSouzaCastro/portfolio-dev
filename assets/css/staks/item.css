@@ -1,0 +1,18 @@
+.staks__item {
+   flex-direction: column;
+   list-style: none;
+   margin-right: 30px;
+   border: 2px solid #1f1f1f ;
+   border-radius: 3px;
+   transition: border-color 1s;
+}
+
+.staks__item:hover{
+   border-color: #701d78;
+}
+
+@media screen and (max-width:576px) {
+   .staks__item{
+      margin-bottom: 15px;
+   }
+}
